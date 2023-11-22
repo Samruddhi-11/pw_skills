@@ -1,0 +1,4 @@
+1- dir() : used to show pre define functions, attributes vagera vagera..
+2- zip() Function : used to zip two list or tuple
+                               { x = zip(a, b)     #(a,b) tuples or list}.
+3- [::-1] : is used to reverse string.
